@@ -1,18 +1,11 @@
-## Getting Started
+# Proyecto de Cajero Automático en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este es un proyecto de cajero automático simple en Java que implementa el patrón de Cadena de Responsabilidad. El cajero automático toma una cantidad ingresada por el usuario y dispensa billetes en denominaciones de $100,000, $50,000, $20,000, $10,000 y $5,000. El proyecto ilustra cómo se puede utilizar el patrón de Cadena de Responsabilidad para manejar solicitudes en una secuencia de manejadores.
 
-## Folder Structure
+## Instrucciones de Uso
 
-The workspace contains two folders by default, where:
+Para compilar y ejecutar el proyecto, sigue estos pasos:
+1. Ejecuta la aplicación:
+java Main
+Proyecto desarrollado por Juan Sebastian Londoño Cossio - https://github.com/Sebazt
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
